@@ -23,7 +23,8 @@ $ yarn run build
 
 ```bash
 $ yarn run docz:dev
-```
+
+bdfhyfmjygjhgjygk```
 
 The demo will be available at [http://localhost:3000/megafon-ui/](http://localhost:3000/megafon-ui/).
 
